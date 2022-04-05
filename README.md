@@ -1,1 +1,1 @@
-# first-lesson
+# Python test learning project
